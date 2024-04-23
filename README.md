@@ -4,6 +4,7 @@
 
 - 📫 How to reach me: madina.yergibay@nu.edu.kz
 - Google Scholar: https://scholar.google.com/citations?hl=en&user=X9s6YToAAAAJ&view_op=list_works
+- Scopus: https://www.scopus.com/authid/detail.uri?authorId=57982803300
 - ORCID: https://orcid.org/0000-0002-6214-9607
 - LinkedIn: https://www.linkedin.com/in/madina-yergibay/
 
